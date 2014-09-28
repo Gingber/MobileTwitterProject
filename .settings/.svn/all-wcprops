@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/Twitter/!svn/ver/7/.settings
+END
+org.eclipse.jdt.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Twitter/!svn/ver/1/.settings/org.eclipse.jdt.ui.prefs
+END
+org.eclipse.core.resources.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Twitter/!svn/ver/7/.settings/org.eclipse.core.resources.prefs
+END
+org.eclipse.ltk.core.refactoring.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Twitter/!svn/ver/1/.settings/org.eclipse.ltk.core.refactoring.prefs
+END

@@ -1,0 +1,31 @@
+ INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:UrgentTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:UrgentTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:UrgentTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:UrgentTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:UrgentTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:KeyWordAndTopicTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:KeyWordAndTopicTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:KeyUserTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:KeyWordAndTopicTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:KeyWordAndTopicTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:KeyWordAndTopicTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:KeyUserTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:TASK?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:TASK?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:KeyUserTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:KeyUserTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:KeyUserTask?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:TASK?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:TASK?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Receiver.java:64] - 创建一个主动方式获取消息的Receiver:TASK?consumer.prefetchSize=0
+   INFO 2014-09-23 00:30:36 [nodeName] [Node.java:177] - 启动定时器成功[TWAjaxNode- 1]
+   INFO 2014-09-23 00:30:36 [nodeName] [Node.java:177] - 启动定时器成功[TWAjaxNode- 2]
+   INFO 2014-09-23 00:30:36 [nodeName] [Node.java:177] - 启动定时器成功[TWAjaxNode- 0]
+   INFO 2014-09-23 00:30:36 [nodeName] [Node.java:177] - 启动定时器成功[TWAjaxNode- 4]
+   INFO 2014-09-23 00:30:36 [nodeName] [Node.java:177] - 启动定时器成功[TWAjaxNode- 3]
+   INFO 2014-09-23 00:30:36 [AjaxMainSearchThread-TWAjaxNode- 2] [AjaxMainSearch.java:74] - MainSearch[AjaxMainSearch-TWAjaxNode- 2] Start To doWork
+   INFO 2014-09-23 00:30:36 [AjaxMainSearchThread-TWAjaxNode- 0] [AjaxMainSearch.java:74] - MainSearch[AjaxMainSearch-TWAjaxNode- 0] Start To doWork
+   INFO 2014-09-23 00:30:36 [AjaxMainSearchThread-TWAjaxNode- 3] [AjaxMainSearch.java:74] - MainSearch[AjaxMainSearch-TWAjaxNode- 3] Start To doWork
+   INFO 2014-09-23 00:30:36 [AjaxMainSearchThread-TWAjaxNode- 4] [AjaxMainSearch.java:74] - MainSearch[AjaxMainSearch-TWAjaxNode- 4] Start To doWork
+   INFO 2014-09-23 00:30:36 [AjaxMainSearchThread-TWAjaxNode- 1] [AjaxMainSearch.java:74] - MainSearch[AjaxMainSearch-TWAjaxNode- 1] Start To doWork
+  
